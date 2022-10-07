@@ -23,6 +23,7 @@ useEffect(()=>{
     <br/>
     <h4></h4>
     <button onClick={changeNumbers}>click here {numb}</button>
+    <input type="text" name="" value=""/>
     </>
   )
 }

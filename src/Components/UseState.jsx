@@ -8,7 +8,7 @@ setMyName('use state hooks done ')
   return (
     <div>
         <h2>Question-1</h2>
-        <h3></h3>
+        {/* <h3></h3> */}
         <h3>{myName}</h3>
         <button onClick={changeName}>click</button>
     </div>
